@@ -15,7 +15,7 @@ public class BancoDeDados {
 	}
 	
 	public static void inserirDados(Pessoa pessoa) {
-		LOGGER.info("inseriu dados");
+		LOGGER.info("inseriu dados ");
 	}
 	
 	public static void removeDados(Pessoa pessoa) {
